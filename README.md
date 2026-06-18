@@ -1,4 +1,4 @@
-# Distributed Social and Recommendation Engine (WIP)
+# [WIP] Distributed Social and Recommendation Engine
 
 A new Flutter project.
 
