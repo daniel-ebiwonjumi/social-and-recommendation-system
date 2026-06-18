@@ -1,4 +1,4 @@
-# social_news_and_community_forum
+# Distributed Social and Recommendation Engine
 
 A new Flutter project.
 
