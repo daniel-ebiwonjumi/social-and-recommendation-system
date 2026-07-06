@@ -45,4 +45,4 @@ app.*.map.json
 /android/app/release
 
 # Environment Variables
-/project/node_modules/
+
