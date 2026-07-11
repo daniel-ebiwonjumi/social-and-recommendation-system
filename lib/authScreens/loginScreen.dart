@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'signupScreen.dart';
+
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
@@ -69,12 +69,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 TextButton(
                   onPressed: () {
                     print('Button pressed');
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) => const SignupScreen(),
-                      ),
-                    );
+                    //TODO: To move to the Signup page
                   },
                   child: Text('If you don\'t have an account, sign up'),
                 ),

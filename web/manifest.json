@@ -1,11 +1,11 @@
 {
-    "name": "social_news_and_community_forum",
-    "short_name": "social_news_and_community_forum",
+    "name": "social_and_recommendation_system",
+    "short_name": "social_and_recommendation_system",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A Social and Recommendation System",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
